@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An accompt of transactions mannaged by the Lords and Commons assembled in Parliament: concerning the King the priviledges of Parliament, the liberties of the subject, reformation in religion, regulating of courts, and matters of warre and peace. With a declaration, and votes of both houses of Parliament, concerning his Majesty.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84546</idno>
+            <idno type="STC">Wing E967</idno>
+            <idno type="STC">Thomason E427_2</idno>
+            <idno type="STC">ESTC R204585</idno>
+            <idno type="EEBO-CITATION">99864058</idno>
+            <idno type="PROQUEST">99864058</idno>
+            <idno type="VID">116277</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116277)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E427[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An accompt of transactions mannaged by the Lords and Commons assembled in Parliament: concerning the King the priviledges of Parliament, the liberties of the subject, reformation in religion, regulating of courts, and matters of warre and peace. With a declaration, and votes of both houses of Parliament, concerning his Majesty.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648. Feb. 12: Imprimatur, Gilb. Mabbot.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: the 8 in imprint date altered to a 7.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1625-1649 : Charles I) --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116277:1" rendition="simple:additions"/>
+            <p>An Accompt of TRANSACTIONS Mannaged by the <hi>LORDS</hi> and <hi>COMMONS</hi> Aſſembled in PARLIAMENT: Concerning the KING THE Priviledges of Parliament, the Liberties of the Subject, Reformation in Religion, <hi>Regulating of Courts, and matters of Warre and Peace.</hi>
+            </p>
+            <p>WITH A Declaration, and Votes of both hou<g ref="char:EOLhyphen"/>ſes of Parliament, concerning <hi>his Majeſty.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 1647. <hi>Feb.</hi> 12: Imprimatur, Gilb. Mabbot.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:116277:2"/>
+            <pb n="1" facs="tcp:116277:2"/>
+            <head>
+               <hi>An Account of Tranſactions, managed by</hi> the Lords and Commons in Parliament aſſembled.</head>
+            <p>THe Kingdome of <hi>England</hi> hath received <hi>Miriads</hi> of <hi>re<g ref="char:EOLhyphen"/>freſhments,</hi> by the bleſſings of God upon the <hi>Parliaments</hi> indevours; which are of high value, however wretched men (like <hi>Saul</hi>) may throw their <hi>Javelins</hi> againſt their Worthies; and giddy-brain'd <hi>Malignants,</hi> (like <hi>Corah</hi> and his company) oppoſe them to their owne deſtruction.</p>
+            <p>But let <hi>Digbey</hi> and <hi>Legge,</hi> and all the Malignant crew of <hi>Sanballets,</hi> practiſe their craft, and ſtir up their <hi>Legions,</hi> yet God will finiſh what he hath determined to do by his Worthies, for the glory of his name, to the joy of good men, and terrour of all oppoſers. The benifits already received by this Par<g ref="char:EOLhyphen"/>liament, are many, and great, though the burdens of the King<g ref="char:EOLhyphen"/>dome be not yet quite removed, and may anſwer ſweetnes to every ſorrow, under which the people, at preſent, groan. As,</p>
+            <p n="1">I. <hi>Concerning the King, (becauſe ſome tax the Parliament to be hard towards Him) conſider,</hi>
+            </p>
+            <p n="1">1 Six Subſidies were granted to His Majeſty, to win his af<g ref="char:EOLhyphen"/>fections to his people, amounting to 300000 <hi>li.</hi>
+            </p>
+            <p n="2">2 A Bill of <hi>Pole-money</hi> was paſſed, and collected, amount<g ref="char:EOLhyphen"/>ing to as great a ſum as thoſe Subſidies, for the ſafety and ſe<g ref="char:EOLhyphen"/>curity of the <hi>Kingdome,</hi> that is alſo 300000 <hi>li.</hi>
+            </p>
+            <p n="3">3 To conſtitute a Peace between the <hi>King</hi> and the <hi>Scots,</hi> when his Majeſty had ingaged againſt them, without the ad<g ref="char:EOLhyphen"/>vice of <hi>Parliament,</hi> and againſt the mindes of his people: A debt was contracted to them of 220000 <hi>li.</hi> Beſides</p>
+            <p n="4">4 The charge of the Engliſh Army, which were, in that in<g ref="char:EOLhyphen"/>gagement, his Majeſties <hi>Arms,</hi> and all the <hi>Commanders</hi> under contract with him, at greater rates than ordinary, which coſt the Kingdome above 50000 <hi>li. per menſem.</hi>
+            </p>
+            <p n="5">5 Which with the 300000 <hi>li.</hi> given to the <hi>Scots,</hi> for bro<g ref="char:EOLhyphen"/>therly
+<pb n="2" facs="tcp:116277:3"/>
+aſſiſtance &amp; the reſt of the charges, amounted to 1100000<hi>l.</hi>
+            </p>
+            <p n="6">6 Beſides his Majeſty had received Marchandine <hi>Impoſiti<g ref="char:EOLhyphen"/>ons,</hi> at the leaſt 400000<hi>li.</hi>
+            </p>
+            <p n="7">7 The Parliament have often ſent to the <hi>King,</hi> ſince he went from them, to deſire his Majeſty to return to his <hi>Parliament,</hi> &amp; they would make him, if he would joyn with them for ſetl<g ref="char:EOLhyphen"/>ing the peace, &amp; ſecurity of the <hi>kingdom,</hi> a great &amp; rich <hi>Prince.</hi>
+            </p>
+            <p n="8">8 They have had many Treaties with the King, wherein they have onely tendred ſuch things, as tend to the ſettlement of the <hi>kingdom,</hi> to be made into wholeſome <hi>Laws,</hi> and yet his Majeſty hath refuſed to paſſe them.</p>
+            <p n="9">9 They have ſtill been tender of his Majeſties Honour (in all ſubmiſſive manner owning him for their King, notwith<g ref="char:EOLhyphen"/>ſtanding the raiſing of forces againſt them, and laid the fault thereof upon his Councellors.</p>
+            <p n="10">10 Since all his Majeſties Forces have been totally defea<g ref="char:EOLhyphen"/>ted, and ſubdued, the Parliament hath ſent ſeverall times to his Majeſty, to deſire him to paſſe the Propoſitions for both <hi>kingdoms,</hi> as at <hi>Newcaſtle,</hi> and at <hi>Holdenboy,</hi> and yet he hath, though perſonally under the power of the Parliament, refuſed to do it</p>
+            <p n="11">11 His Majeſty hath had his own Chaplains, and others whom he hath deſired about him, ſince he was under the pow<g ref="char:EOLhyphen"/>er of the <hi>Parl.</hi> though they have been diſaffected to the Parl.</p>
+            <p n="12">12 Upon his Majeſties deſire to Treat with the Parliament the Houſes have aſſented, provided that his Majeſty would only have paſſed foure Bills, that were eſſentially neceſſary for the peace and ſecurity of the <hi>kingdom.</hi>
+            </p>
+            <p>
+               <hi>Beſides many other actions of the Parliament, of great affections, and tender<g ref="char:EOLhyphen"/>neſſe to his Majeſty.</hi>
+            </p>
+            <p n="2">II <hi>Concerning Parliaments, they have ſought the good of the People in them, As appeares,</hi> In that</p>
+            <p n="1">1 The <hi>Diſſolution</hi> of this <hi>Parliament</hi> is prevented by a <hi>Bill,</hi> by which it is provided, That it ſhall not be <hi>diſſolved,</hi> nor <hi>ad<g ref="char:EOLhyphen"/>journed,</hi> without the conſent of both Houſes. That ſo all the
+<pb n="3" facs="tcp:116277:3"/>
+grievances of the kingdome may be relieved.</p>
+            <p n="2">2 The <hi>diſcontinuance</hi> of future <hi>Parliaments</hi> is prevented, by the <hi>Bill</hi> for them to be <hi>Trienniall.</hi> That ſo corrupt <hi>Councellors, Judges</hi> and <hi>Magiſtrates</hi> may be removed, and paſſe under the laſh of <hi>Juſtice,</hi> by often Reformation: And all the burdens of the kingdom be eaſed, by a perpetuall ſpring of <hi>Remedies.</hi>
+            </p>
+            <p n="3">3 The Houſe of <hi>Commons</hi> protected the five Members de<g ref="char:EOLhyphen"/>manded by the <hi>K.</hi> with about 500 ſouldiers, papiſts, &amp; others, becauſe his Majeſty did not legally proceed againſt them.</p>
+            <p n="4">4 The 12 <hi>Biſhops</hi> were committed to the <hi>Tower,</hi> for proteſt<g ref="char:EOLhyphen"/>ing againſt the proceedings of the Parl. in their abſence, as if they, by their power, could controle that great Court.</p>
+            <p n="5">5 When his Majeſty left the Parliament, and the Lord <hi>Dig<g ref="char:EOLhyphen"/>by, Lunsford,</hi> and others had gathered Horſe and men to joyn with him, for raiſing of a War againſt the Parl. The Houſes ſent Orders to the Sheriffes of the ſeverall Counties in <hi>Engl.</hi> and <hi>Wales,</hi> to call to their aſſiſtance, the <hi>Juſtices of the Peace,</hi> and <hi>Trayned Bands,</hi> to prevent the War intended by the <hi>King,</hi> whereby the deſtruction of the Parliament was prevented.</p>
+            <p n="6">6 They have many of them loſt a great part of their eſtats, in defence of the kingdome: and ſome have been ſlain in the Wars, whereas it was in their power to have complyed with the <hi>King</hi> againſt the City of <hi>London,</hi> and the well-affected people of the Land, to whom they have ſtuck for defence of their Rights, which had they betrayed, as others that left the Parliament, to adhere to his Majeſty, by letting the Cauſe fall, they might themſelves have been advanced to great for<g ref="char:EOLhyphen"/>tunes.</p>
+            <p n="7">7 They have even denyed their own Callings, and Do<g ref="char:EOLhyphen"/>meſtick buſineſſes to ſerve the publique, to a great prejudice to many of the Members.</p>
+            <p n="8">8 They have indevoured to ſatisfie all the Intereſts in the kingdom, to thoſe who have not betrayed their Liberties.</p>
+            <p n="9">9 They have not ſpared their own Members, that have pro<g ref="char:EOLhyphen"/>ved
+<pb n="4" facs="tcp:116277:4"/>
+Trecherous to the kingdom, as may appear by beheading of Sir <hi>John Hotham,</hi> and the execution of Juſtice upon others, and their generall Votes againſt all thoſe, who have betrayed the truſt of the kingdom, repoſed in them.</p>
+            <p n="10">10 They have denyed their own Priviledges, for good of the People, as appears by the late Order of the Houſe of <hi>Com<g ref="char:EOLhyphen"/>mons,</hi> for giving power to all to proſecute againſt any of their eſtates, in an ordinary courſe of <hi>Law,</hi> for debts.</p>
+            <p n="11">11 The houſe of Commons have choſen a large Commit<g ref="char:EOLhyphen"/>tee, who ſit daily in the <hi>Star-Chamber,</hi> to conſider of grievan<g ref="char:EOLhyphen"/>ces which ſhall be preſented, and draw up Ordinances to pre<g ref="char:EOLhyphen"/>ſent to the Houſe for remedies againſt them.</p>
+            <p n="12">12 They are reſolved, in all their debates, to conſider all wayes for the ſetling of a firm and laſting peace, to make the kingdom rich, and happy. Juſtice to be executed, and every one to injoy their juſt Rights.</p>
+            <p n="3">III <hi>To that complaint of ſome, againſt the Seſſements of the</hi> 60000 li. <hi>a month for pay of the Army, and other ſmaller Taxes, by Ordinance of Parliament, Con<g ref="char:EOLhyphen"/>ſider on the other ſide that</hi>
+            </p>
+            <p n="1">1 They have aboliſhed Ship-money, which was, by his Majeſty taxed upon the kingdom, amounting to 20000 <hi>li.</hi> a Moneth.</p>
+            <p n="2">2 They took away the <hi>Coat</hi> and <hi>Conduct money,</hi> which was by the King, taxed upon the kingdom, with other Military Equipage, the value of which, had it continued here, as in other parts, could not amount to leſſe then 10000 <hi>li.</hi> a Moneth.</p>
+            <p n="3">3 <hi>Monopoliſts</hi> are ſuppreſt, and their <hi>Pattents,</hi> which were granted by his Majeſty under the great Seal of <hi>England,</hi> made null, which whilſt they were in force, drew a vaſt ſum of mo<g ref="char:EOLhyphen"/>nies from the people. And could not amount to leſſe then
+<list>
+                  <item>Prejudice by the <hi>Sope</hi> Pattent 10000 <hi>li.</hi> a month In all 1400000 <hi>li.</hi> a Moneth.</item>
+                  <item>Prejudice by the <hi>Wine</hi> Pattent, 30000 <hi>li.</hi> a month In all 1400000 <hi>li.</hi> a Moneth.</item>
+                  <item>Prejudice by the <hi>Leather</hi> Pattent, 40000 <hi>li.</hi> a month In all 1400000 <hi>li.</hi> a Moneth.</item>
+                  <item>Prejudice by the <hi>Salt</hi> Pattent, 40000 <hi>li.</hi> a month In all 1400000 <hi>li.</hi> a Moneth.</item>
+                  <item>Prejudiced by other Patte. above 200000 <hi>li.</hi> a month. In all 1400000 <hi>li.</hi> a Moneth.</item>
+               </list>
+            </p>
+            <p n="4">
+               <pb n="5" facs="tcp:116277:4"/>4 The plundering and inſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iate Cavaliers; and <hi>Iriſh</hi> Rebels, who live upon prey, and hoped to have gotten the City of <hi>London,</hi> and all honeſt mens eſtates, that adhered to the <hi>Parli<g ref="char:EOLhyphen"/>ment,</hi> are ſubdued, and the kingdome reſcued from thoſe great burthens, which through their violence and cruelty, it was forced to bear; which, together with that which the Parlia- was forced to raiſe, for defence of the kingdom againſt them, could not amount, in all, to leſſe then 400000 <hi>li.</hi> a moneth.</p>
+            <p n="5">5 So ſoon as other proviſions can be made, for pay of the publique debts, and the kingdom be brought into a condition to be ſetled, without ſuch Aſſeſments, and Taxes, they will be totally taken off.</p>
+            <p n="6">6 Before the defeat given at <hi>Nazeby,</hi> it would have been thought an happy contract, if it could have been aſſured, to have purchaſed a Peace at ſo eaſie a Rate, as the kingdomes Aſſeſments are now.</p>
+            <p n="4">IV. <hi>The Parliament is ſo farre from inſlaving the people, or prejudicing the Subjects Liberties, That</hi>
+            </p>
+            <p n="1">1 It is Declared, by the judgement of both Houſes, and alſo by an Act of Parliament, That the Arbitrary power, pre<g ref="char:EOLhyphen"/>tended to be in his Majeſty of taxing the Subjects, or charg<g ref="char:EOLhyphen"/>ing their Eſtates (without conſent of Parliament, is againſt <hi>Law.</hi>
+            </p>
+            <p n="2">2 <hi>Juſtice</hi> hath been done upon the Earle of <hi>Strafford,</hi> and the <hi>Arch-Prelate of Canterbury,</hi> and <hi>Charges</hi> brought in againſt others of his Majeſties Councell, who put the King upon this way of trampling upon the peoples Liberties.</p>
+            <p n="3">3 In all their <hi>Declarations</hi> and <hi>Votes</hi> concerning this particu<g ref="char:EOLhyphen"/>lar, they have given aſſurance to the people of vindicating, and clearing their juſt <hi>Liberties</hi> and <hi>Freedomes.</hi>
+            </p>
+            <p n="5">V <hi>However ſome unreaſonable Horſeleeches, never have enough but ſtill cry out againſt</hi> Courts, <hi>and</hi> Magiſtrates, <hi>after ſo great a Reformation, eſtabliſhed by the Parliament, yet let ſuch bluſh to re<g ref="char:EOLhyphen"/>member, That</hi>
+            </p>
+            <p n="1">
+               <pb n="6" facs="tcp:116277:5"/>1 The Parliament have put down the cruell and oppreſſing Courts of <hi>Star-chamber,</hi> the <hi>High-Commiſſion,</hi> the Courts of the <hi>Preſident,</hi> and <hi>Councell</hi> in the <hi>North:</hi> and freed the Sub<g ref="char:EOLhyphen"/>ject from all ſuch <hi>Tyranny</hi> as was practiſed daily by them.</p>
+            <p n="2">2 The power of the <hi>Councell Table</hi> is provided for, to be ſo moderated, that the publique <hi>Liberty</hi> of the people may not be prejudiced thereby, againſt the Lawes of the Kingdome, and Priviledges of the Subject.</p>
+            <p n="3">3 The <hi>Biſhops</hi> Cannons, and the power of their <hi>Convoca<g ref="char:EOLhyphen"/>tion</hi> Courts are blaſted, and made null, and (themſelves being aboliſhed) all their Tyrannicall Judicatures put downe, and the Subjects Liberties vindicated from further ſlavery under them.</p>
+            <p n="4">4 The Forreſts are by a good Law reduced to their right bounds. The encroachments and oppreſſions of the <hi>Stannary Courts.</hi> The extortions of the <hi>Clerke of the Market,</hi> and the compulſion of the Subject to receive the order of <hi>King-hood</hi> a<g ref="char:EOLhyphen"/>gainſt his will, paying of fines for not receiving it, and the vexatious proceedings thereupon for levying of thoſe fines (are by beneficiall <hi>Lawes</hi>) reformed, and prevented.</p>
+            <p n="5">5 The Court of Wards and Liveries is voted down. Which hath beene the ruine of many thouſands in this Kingdome.</p>
+            <p n="6">6 An Ordinance is under debate for taking away the Of<g ref="char:EOLhyphen"/>fice for <hi>Tenths</hi> &amp; <hi>Firſt fruits</hi> to the great caſe of the Miniſtery:</p>
+            <p n="7">7 All <hi>Courts</hi> in the Kingdom are either reformed or check<g ref="char:EOLhyphen"/>ed, ſo that they cannot oppreſſe the people without being in danger of the laſh of the Parliament.</p>
+            <p n="8">8 All Committees and other intruſted by the Parl. muſt be called to an account, and bee made liable to anſwer to any charge that ſhall be exhibited againſt them for miſcariages.</p>
+            <p n="9">9 If any Member of Parliament have received any bribe, for any buſineſſe depending in Parliament upon informati<g ref="char:EOLhyphen"/>on thereof, he is to ſuffer ſeverely.</p>
+            <p n="10">10 In any publique grievance, the Subject may have pre<g ref="char:EOLhyphen"/>ſent remedy by the Parliament.</p>
+            <p>
+               <pb n="7" facs="tcp:116277:5"/>
+               <hi>VI.</hi> And although ſome (who are as blind as beetles in the wayes of God) cry out, that there is no <hi>Religion</hi> ſetled, And that we are now worſe then ever we were; yet they might conſider. That.</p>
+            <p n="1">1. <hi>Epiſcopacy</hi> (which, as it was ſetled in <hi>England,</hi> was a continuall tormentor of godly <hi>Proteſtants</hi>) is aboliſhed.</p>
+            <p n="2">2. The <hi>Popiſhly</hi> by effected <hi>Clergy</hi> [who were daily bring<g ref="char:EOLhyphen"/>ing into the Church freſh <hi>Innovaſions</hi> from the Church of <hi>Rome,</hi> to exterpate the <hi>Proteſtant Religion,</hi> are caſt out with their trumpery.</p>
+            <p n="3">3. Divers Miniſters, who have been ſcandalous in their lives, And popiſh in their Doctrine, have been ſuſpended, and put out of their places. And other honeſt godly <hi>Ar<g ref="char:EOLhyphen"/>thodox</hi> Divines placed in their ſtead.</p>
+            <p n="4">4. The Aſſembly of Divines have ſat conſtantly, ſince they were called. And in matters concerning <hi>Religion,</hi> have often brought in their humble advice to the <hi>Parliament;</hi> And in all things tending to the propogation of the Goſ<g ref="char:EOLhyphen"/>pell of <hi>Jeſus Chriſt,</hi> (both they and all other godly Mini<g ref="char:EOLhyphen"/>ſters) have had all poſſible encouragement and aſſiſtance from the Parliament, And the truth of God is preached with great freedom: ſo that if people be unſetled in their Judgements, it is their own faults, to live without know<g ref="char:EOLhyphen"/>ledge under the meanes.</p>
+            <p n="5">5. The chiefeſt differences amongſt us now are <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t cir<g ref="char:EOLhyphen"/>cumſtantialls, whereas before the <hi>Parliament</hi> ſat, <hi>Popery</hi> trampled upon the very fundamentalls of the <hi>Proteſtant</hi> Religion, eſpecially in the <hi>Kings</hi> Chappell, and other emi<g ref="char:EOLhyphen"/>nent places of worſhip; And although there are <hi>Heriticks</hi> amongſt us, as muſt be in all parts of Chriſtendom, yet they are neither conſiderable, nor publikely tollerated.</p>
+            <p n="6">
+               <pb n="8" facs="tcp:116277:6"/>6 The truth of God was never preached more clearly, and gloriouſly ſince the Apoſtles time, (it is the Judgement of many very eminent Chriſtians) in any part of the world, then it is now in this Kingdom, And that is the reaſon that ſo many errours are diſcovered, though ſimple ignorant people do not know it.</p>
+            <p n="7">7 The Houſes have paſſed an Ordinance for the ſeverall Counties in the Kingdom to be drawn into Claſſes, that ſo there may be a ſpeedy ſetled Church-Diſcipline through the Kingdom.</p>
+            <p n="8">8 An Ordinance is drawing up by a Committee, for the puniſhing of Hereſie and Blaſphemy.</p>
+            <p n="9">9 All reſpect (that the word of God will beare) is had to tender Conſciences; for the propogation of the Goſpell of the Lord Jeſus Chriſt.</p>
+            <p n="10">10 Both Houſes have paſſed an Ordinance for repaire of Churches, and paying Church duties, with penalties impo<g ref="char:EOLhyphen"/>ſed on the refuſers.</p>
+            <p n="11">11 The Houſe of Commons fit every Fryday upon the ſetling of the Church, and have almoſt finiſhed the Confeſ<g ref="char:EOLhyphen"/>ſion of Faith.</p>
+            <p n="12">12 All poſſible meanes are uſed for the propogation of the Goſpel, of the Lord Jeſus Chriſt.</p>
+            <p>
+               <hi>VII.</hi> And though poore diſtreſſed <hi>Ireland</hi> ſuffer under the Rebels yet the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> have been dilligent to relieve thoſe groaning Proteſtants, And to that end.</p>
+            <p n="1">1. Have often ſent them ſupplyes of men and monies.</p>
+            <p n="2">2. Called the <hi>Scots</hi> for brotherly aſſiſtance therein, and contracted great ſummes for their pay, for ſo doing.</p>
+            <p n="3">3. The <hi>Spaniſh</hi> Embaſſadour was ſent to for the ſtay of <hi>Dunkirk</hi> Ships, and other prevention made to hinder ſupply from going to the Rebels.</p>
+            <p n="4">
+               <pb n="9" facs="tcp:116277:6"/>4. The <hi>Parliament,</hi> hath ſeverall times at the begining of the Wars, ſent ſupylyes of Clothes and Victualls, to re<g ref="char:EOLhyphen"/>lieve the Proteſtant Iriſh, ſome of which ſupplyes, of ſuites of Clothes, ſtockings, and other proviſions, deſigned for them, were taken for the <hi>Kings</hi> forces.</p>
+            <p n="5">5. They have every year carefully provided Ships, and ſupplyes for a guard for the <hi>Iriſh</hi> Seas; which have much impeaded the <hi>Iriſh</hi> Rebels, in their deſignes.</p>
+            <p n="6">6. They have intruſted the tranſactions of affaires in that Kingdom, in the hands of ſuch honeſt, and able men, as from time to time, have given a good accompt thereof.</p>
+            <p n="7">7. They have not only paſſed votes, and appointed o<g ref="char:EOLhyphen"/>thers to aſſiſt <hi>Ireland;</hi> but divers Members of the Parlia<g ref="char:EOLhyphen"/>ment, have themſelves disburſed large ſummes towards the worke.</p>
+            <p n="8">8. Though the <hi>King</hi> and his party have had ſeverall Trea<g ref="char:EOLhyphen"/>ties, and agreed to ſeverall Ceſſations, and peace with the Rebels: yet the Parliament would never adhere to them, in the leaſt meaſure, to give them any advantage againſt the poore Proteſtants of that Kingdom.</p>
+            <p n="9">9. Through Gods bleſſings upon their endeavours, the Rebels, from a great ſtrength are now brought low.</p>
+            <p n="10">10. They are now about an Ordinance, for aſeſment for 20000. l. <hi>per menſem,</hi> to be ſeſſed through the Kingdom of <hi>England,</hi> and themſelves to bear an equall proportion, for the vigorous proſecution of the Warre againſt the Iriſh Rebels.</p>
+            <p>
+               <hi>VIII.</hi> And their care hath been great, for the ſafety of the City of <hi>London,</hi> as ap<g ref="char:EOLhyphen"/>pears in that.</p>
+            <p n="1">1. They refuſed to comply with the <hi>King,</hi> againſt the City, before the late Warres.</p>
+            <p n="2">
+               <pb n="9" facs="tcp:116277:7"/>2. They prevented the deſigne of the Army, that went a<g ref="char:EOLhyphen"/>gainſt the <hi>Scots,</hi> from coming againſt the City.</p>
+            <p n="3">3. When <hi>Lunsford,</hi> was Lieutenant of the <hi>Tower,</hi> A Meſ<g ref="char:EOLhyphen"/>ſage was ſent to the <hi>King,</hi> to remove him, and after him, Sir <hi>John Byron,</hi> both great enemies to the City of <hi>London,</hi> and at a dangerous time, becauſe his <hi>Majeſty</hi> had then left the City, and the Parliament.</p>
+            <p n="4">4. And after that, the Houſes paſſed in Ordinance for the ſafe Guard of the <hi>Tower,</hi> and the City of <hi>London,</hi> under the Command of Maj. Gen. <hi>Skippon.</hi>
+            </p>
+            <p n="5">5. At all times the Houſes have been ready to give all aſſiſtance that might be, for the ſafety, and preſervation thereof.</p>
+            <p n="6">6. They have been alwayes tender to maintain the Li<g ref="char:EOLhyphen"/>berties, and juſt rights of the City.</p>
+            <p n="7">7. They have intruſted no perſons in the Kingdom of <hi>England,</hi> ſo much as the Cityzens of <hi>London.</hi>
+            </p>
+            <p n="8">8. They have alwayes had a great reſpect to anſwer the City to all juſt, and lawfull deſires, that they have put up to the Parliament.</p>
+            <p n="9">9. Though the <hi>King</hi> invited them to come to him to <hi>Oxford,</hi> and that many Members of both Houſes did go and comply with His <hi>Majeſty</hi> againſt the City of <hi>London;</hi> yet they have ſtayed, and not diſſerted them.</p>
+            <p n="10">10. The Houſes have (when Commiſſioners have been choſen to treate with the King) ſent to the City to preſent their deſires, to be ſent with the Propoſitions from the Houſes, and the Kingdom of <hi>Scotland;</hi> for the vindicating, and clearing of the Priviledges, and juſt Rights of the City.</p>
+            <p>
+               <hi>IX.</hi> And however ſome have charged the Parliament, and ſtill would blemiſh them,
+<pb n="10" facs="tcp:116277:7"/>
+as if they delight in Warre, and would not have Peace, they may bluſh at their impudence, and conſider that.</p>
+            <p n="1">1. When His <hi>Majeſty</hi> left them, and went to <hi>Windſor,</hi> and contracted forces, they ſent ſeverall Petitions to him, to pray him to returne to his Parliament. And deſired his <hi>Majeſty</hi> if he had any Charge againſt the five Members, to ſend it to the Houſes, and they would proceed in a legall Tryall, and make Inquiſition if any thing could be proved againſt them.</p>
+            <p n="2">2. They have had ſeverall Treaties with His <hi>Majeſty,</hi> and made very great offers to him; but could not be concurred with.</p>
+            <p n="3">3. Since the <hi>Kings</hi> forces have been totally ſuppreſſed, they have made ſeverall addreſſes to His <hi>Majeſty;</hi> but could not be anſwered with His <hi>Majeſties</hi> Concurrence to what they have preſented for the ſafe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and peace of the King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>And for further ſatisfaction herein, conſider theſe follow<g ref="char:EOLhyphen"/>ing papers.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>A Declaration of the Lords and Commons in Parliament Aſſembled.</head>
+                        <p>THe Lords and Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, after ma<g ref="char:EOLhyphen"/>ny addreſſes to his <hi>Majeſty,</hi> for the preventing and ending this unnaturall war raiſed by him againſt his <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> and Kingdom; having lately ſent
+<pb n="11" facs="tcp:116277:8"/>
+foure Bills to his <hi>Majeſty</hi> which did contain only matter of ſafety and ſecu<g ref="char:EOLhyphen"/>rity to the <hi>Parliament</hi> and Kingdom, referring the compoſure of all other differences to a perſonal Treaty with his <hi>Maj.</hi> and having received an ab<g ref="char:EOLhyphen"/>ſolute Negative; Do hold themſelves obliged to uſe their uttermoſt endea<g ref="char:EOLhyphen"/>vours ſpeedily to ſettle the preſent Go<g ref="char:EOLhyphen"/>vernment in ſuch a way as may bring the greateſt ſecurity to this Kingdom, in the enjoyment of the Lawes and liberties thereof; And in order there<g ref="char:EOLhyphen"/>unto, and that the Houſes may receive no delayes, nor interruptions, in ſo great and neceſſary a work; they have taken theſe Reſolutions, and paſſed theſe Votes following, <hi>viz.</hi>
+                        </p>
+                        <p>REſolved, &amp;c. That the Lords and Com<g ref="char:EOLhyphen"/>mons do declare, that they will make no further addreſſes or applications to the King.</p>
+                        <p>
+                           <pb n="11" facs="tcp:116277:8"/>Reſolved, &amp;c. By the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, That no ap<g ref="char:EOLhyphen"/>plication or addreſſe be made to the King by any perſon whatſoever, without the leave of both Houſes.</p>
+                        <p>Reſolved, &amp;c. By the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament. That the per<g ref="char:EOLhyphen"/>ſon, or perſons, that ſhal make breach of this Order, ſhall incur the penalties of High Treaſon.</p>
+                        <p>Reſolved, &amp;c. That the Lords and Com<g ref="char:EOLhyphen"/>mons do declare, that they will receive no more any Meſſage from the King, and do en<g ref="char:EOLhyphen"/>joyn, that no perſon whatſoever, do preſume to receive, or bring any Meſſage from the King, to both or either, the Houſes of Parli<g ref="char:EOLhyphen"/>ament, or to any other perſon.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>H. Elſyng Cler. Parl. D. Com.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Brown Cleric. Parliamentorum.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>Die Luna <hi>17.</hi> Jan. <hi>1647.</hi>
+                        </head>
+                        <p>ORdered by the Lords and commons aſſembled in Parliament, That this De<g ref="char:EOLhyphen"/>claration and theſe Reſolutions be forthwith printed and publiſhed; And that ſeverall
+<pb n="14" facs="tcp:116277:9"/>
+Knights of Sheires, and Burgeſſes that ſerve for the ſeverall Towns and places, do ſend copies of the ſame to the ſeverall Counties and places.</p>
+                        <p>It is further Ordered, that whatſoever perſon ſhall act contrary to this Declaration and reſolutions of Parliament, or ſhall in<g ref="char:EOLhyphen"/>cite or incourage others ſo to do, ſhall upon due proofe thereof be impriſoned, and his Eſtate ſequeſtred; and Offenders in the pre<g ref="char:EOLhyphen"/>miſes after publication here of ſhal be with<g ref="char:EOLhyphen"/>in the ſeveral Ordinances of Sequeſtrations.</p>
+                        <p>And all committes and commiſſioners of Sequeſtrations are hereby authorized and required to take notice hereof, and to pro<g ref="char:EOLhyphen"/>ceed to Sequeſtration accordingly.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Iohn Brown Cleric. Parl.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Hen Elſyng, Cler. Parl. D. Com.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
